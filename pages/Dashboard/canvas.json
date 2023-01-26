@@ -2396,91 +2396,117 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Search3_Utils.order_id_search",
               "name": "delayedOrders",
+              "collectionId": "Search3_Utils",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Search3_Utils.order_id_search",
               "name": "monthlyDeliveryDates",
+              "collectionId": "Search3_Utils",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Search3_Utils.order_id_search",
               "name": "monthlyExpectedDeliveryDates",
+              "collectionId": "Search3_Utils",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Search3_Utils.order_id_search",
               "name": "orderValuePerMonth",
+              "collectionId": "Search3_Utils",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Search3_Utils.order_id_search",
               "name": "ordersPerMonth",
+              "collectionId": "Search3_Utils",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Search3_Utils.order_id_search",
               "name": "paymentMethod",
+              "collectionId": "Search3_Utils",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Search3_Utils.order_id_search",
               "name": "popularProducts",
+              "collectionId": "Search3_Utils",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Search3_Utils.order_id_search",
               "name": "refundMethod",
+              "collectionId": "Search3_Utils",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Search3_Utils.order_id_search",
               "name": "refundValuePerMonth",
+              "collectionId": "Search3_Utils",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Search3_Utils.order_id_search",
               "name": "refundedOrders",
+              "collectionId": "Search3_Utils",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Search3_Utils.order_id_search",
               "name": "refundsPerMonth",
+              "collectionId": "Search3_Utils",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Search3_Utils.order_id_search",
               "name": "totalCustomers",
+              "collectionId": "Search3_Utils",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Search3_Utils.order_id_search",
               "name": "totalOrders",
+              "collectionId": "Search3_Utils",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
